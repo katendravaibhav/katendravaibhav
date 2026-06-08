@@ -13,7 +13,7 @@ I like working close to how things actually run, whether that's writing kernel c
 
 ##  Connect
 
-- Email: vaibhavkatendra1709@gmail.com
+- Email: vaibhavkatendra55@gmail.com vaibhavkatendra1709@gmail.com
 - LinkedIn: https://www.linkedin.com/in/vaibhav-katendra-5a727b283/  
 
 If something here looks interesting or you want to talk systems, networking, or backend engineering, feel free to reach out.
